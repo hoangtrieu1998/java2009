@@ -1,0 +1,21 @@
+.rowflex{
+    display: flex;
+    
+    width: 100%;
+}
+}
+.colflex{
+    flex: 1;
+    font-size:600px ;
+    font-weight: bold;
+    width: 50%;
+    height: 700px;
+}.col1{
+    background-color: aqua;
+    width: 50%;
+    height:700px ;
+}.col2{
+    background-color: blueviolet;
+    width: 50%;
+    height: 700px;
+}

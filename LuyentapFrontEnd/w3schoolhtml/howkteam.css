@@ -1,0 +1,23 @@
+h1{
+     text-transform:uppercase ;
+}
+h2{
+    text-transform: uppercase;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    font-weight: 200;
+    
+    padding: ;
+    margin-top: 50px;
+    border: 20px solid green;
+    border-style: double;
+}
+textarea{
+    border-style: dotted;
+}
+input{
+    border-style: inset;
+}

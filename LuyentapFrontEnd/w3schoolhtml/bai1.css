@@ -1,0 +1,18 @@
+h1{
+    background-color: red;
+}
+body{
+    background-color: aqua;
+}
+.intro{
+    color: blueviolet;
+
+} 
+#intro{
+    color:red
+}
+#intro{
+    color: white;
+}#indexof{
+    border-style:dotted dashed solid dotted;
+}

@@ -1,0 +1,58 @@
+.header{
+    float: left;
+    width: 40%;
+    height: 50px;
+    margin-bottom: 5px ;
+}
+.col1{
+    width: 25%;
+    background-color: green;
+}.col2{
+    width: 75%;
+    background-color:rebeccapurple;
+}.row{
+    float: left;
+    width: 100%;
+    height: 613px;
+    display: table-cell;
+   
+
+}.colA{
+    background-color: green;
+    width: 25%;
+    
+   
+}.colB{
+    width: 75%;
+    background-color: rebeccapurple;
+   
+    
+    
+   
+}.rowE1{
+    background-color:brown ;
+    width: 97.8%;
+    height: 100px;
+    margin-top: 13px;
+    margin-left: 13px;
+       
+    
+
+}.rowE2{
+    background-color: black;
+    width: 97.80%;
+    height: 487px;
+    margin-bottom: 13px;
+   margin-left: 13px;
+    
+       
+    
+}.footer{
+    float: left;
+    width: 50%;height: 150px;
+    margin-top: 15px;
+}.coloum1{
+    background-color: green;
+}.coloum2{
+    background-color: rebeccapurple;
+}

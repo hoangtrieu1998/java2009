@@ -1,0 +1,55 @@
+.row{
+    float: left;
+    height: 700px;
+    width: 100%
+}
+.col1{
+    background-color:red ;
+    width: 50%;
+}
+.col2{
+    background-color: black;
+    width: 50%;
+}.row3{
+    height: 525px;
+    width: 100%;
+    float: left;
+}.row4{
+    height: 175px;
+    width: 100%;
+    float: left;
+}.colA{
+    width: 25%;
+    background-color: orangered;
+   
+    color: white;
+    
+    
+}.colB{
+    width: 25%;
+    background-color:wheat;
+   
+    color: white;
+}.colC{
+    width: 25%;
+    background-color: orangered;
+    
+    color: white;
+}.colD{
+    width: 25%;
+    background-color: wheat;
+    
+    color: white;
+}.col9{
+    height: 525px;
+    width: 75%;
+}.col10{
+    height: 525%;
+    width: 25%;
+    background-color: white;
+}.colB p.center{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
